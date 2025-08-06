@@ -2,8 +2,6 @@
 <h3 align="center">A passionate Java Developer from India</h3> 
 
 
-<p align="left">  <img src="https://komarev.com/ghpvc/?username=Siddartha-Gajangi&label=Profile%20views&color=0e75b6&style=flat" alt="sid" /> </p>
-
 - 🌱 I’m currently learning **Spring-boot and MicroServices**
  
 - 📫 How to reach me **gajangisiddartha3@gmail.com**
